@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\dynamic_slasher\\dynamic_slasher\\source\\dynamic_slasher\\dynamic_slasher.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\dynamic_slasher\\dynamic_slasher\\intermediate\\build\\win64\\x64\\dynamic_slashereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\dynamic_slasher\\dynamic_slasher\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dynamic_slasher\\definitions.dynamic_slasher.h",
+            "d:\\dynamic_slasher\\dynamic_slasher\\source\\dynamic_slasher\\dynamic_slasher.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

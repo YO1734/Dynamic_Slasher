@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Dynamic_Slasher.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Dynamic_Slasher\Dynamic_Slasher\Intermediate\Build\Win64\x64\Dynamic_SlasherEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Dynamic_Slasher\Dynamic_Slasher\Intermediate\Build\Win64\x64\UnrealEditor\Development\Dynamic_Slasher\Dynamic_Slasher.cpp.obj"
+"D:\Dynamic_Slasher\Dynamic_Slasher\Intermediate\Build\Win64\x64\UnrealEditor\Development\Dynamic_Slasher\Default.rc2.res"
+/OUT:"D:\Dynamic_Slasher\Dynamic_Slasher\Intermediate\Build\Win64\x64\UnrealEditor\Development\Dynamic_Slasher\UnrealEditor-Dynamic_Slasher.lib"

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Dynamic_Slasher.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Dynamic_Slasher.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Dynamic_SlasherEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Dynamic_Slasher">
+      <UniqueIdentifier>{E1ACA04D-0751-34E2-827B-C3035845BB50}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Dynamic_Slasher\Dynamic_Slasher.Build.cs">
+      <Filter>Source\Dynamic_Slasher</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Dynamic_Slasher\Dynamic_Slasher.cpp">
+      <Filter>Source\Dynamic_Slasher</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Dynamic_Slasher\Dynamic_Slasher.h">
+      <Filter>Source\Dynamic_Slasher</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

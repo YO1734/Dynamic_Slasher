@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Dynamic_Slasher",
+			"Path": "..\\Source\\Dynamic_Slasher.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Dynamic_SlasherEditor",
+			"Path": "..\\Source\\Dynamic_SlasherEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
